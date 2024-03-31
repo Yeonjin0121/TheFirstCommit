@@ -1,2 +1,2 @@
-email :
-gitID :
+email : dlduswls0121@naver.com
+gitID : yeonjin01210
